@@ -1,0 +1,11 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# vendor
+.env
+.vscode/
+node_modules/
+.next/
+out
